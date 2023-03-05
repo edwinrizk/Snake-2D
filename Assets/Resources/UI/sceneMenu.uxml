@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="Snake" style="height: 211px; width: auto; background-image: resource(&apos;IMG/Snake&apos;); -unity-background-scale-mode: scale-to-fit; align-items: auto; max-width: initial;" />
+    <ui:VisualElement name="Menu" style="height: auto; width: auto; position: relative; overflow: visible; justify-content: center; align-items: center; -unity-background-scale-mode: stretch-to-fill; margin-left: auto; margin-right: auto; margin-top: auto; margin-bottom: auto; max-width: none;">
+        <ui:Button display-tooltip-when-elided="true" name="Jouer" style="height: 64px; width: 195px; -unity-background-scale-mode: scale-to-fit; align-items: flex-end; justify-content: space-between; background-image: resource(&apos;IMG/jouer&apos;); visibility: visible; overflow: hidden; display: flex; opacity: 1; border-left-width: 0; border-right-width: 0; border-top-width: 0; border-bottom-width: 0; background-color: rgb(94, 94, 94); max-width: none;" />
+    </ui:VisualElement>
+</ui:UXML>

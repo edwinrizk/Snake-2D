@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="align-items: center; justify-content: space-between; position: relative; height: 182px; width: auto; -unity-background-scale-mode: scale-to-fit; background-image: resource(&apos;IMG/Victoire&apos;);" />
+    <ui:VisualElement style="height: auto; width: auto; justify-content: space-between; align-items: center; -unity-background-scale-mode: scale-to-fit; max-width: none; -unity-text-align: upper-center; padding-left: 139px; flex-direction: column; flex-wrap: wrap; padding-right: 139px; padding-top: 139px; padding-bottom: 139px;">
+        <ui:Button display-tooltip-when-elided="true" name="Suivant" style="background-image: resource(&apos;IMG/23de2cb54154dac688a5d069e5d044fb (1)&apos;); height: 130px; width: 253px; -unity-background-scale-mode: scale-to-fit; background-color: rgba(88, 88, 88, 0); border-left-width: 0; border-right-width: 0; border-top-width: 0; border-bottom-width: 0;" />
+    </ui:VisualElement>
+</ui:UXML>
